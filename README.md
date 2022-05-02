@@ -8,4 +8,4 @@ Simple budgeting app with income and expense budgeting features. More to come!
 - MUI Components
 - ReactJS
 
-![alt text](https://imgur.com/mRxyQ1I)
+![Screenshot](https://imgur.com/mRxyQ1I)
