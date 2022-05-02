@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/plata/static/css/main.31d6cfe0.css",
+    "main.js": "/plata/static/js/main.f01c0623.js",
+    "static/js/787.b3ab330a.chunk.js": "/plata/static/js/787.b3ab330a.chunk.js",
+    "index.html": "/plata/index.html",
+    "main.f01c0623.js.map": "/plata/static/js/main.f01c0623.js.map",
+    "787.b3ab330a.chunk.js.map": "/plata/static/js/787.b3ab330a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f01c0623.js"
+  ]
+}
